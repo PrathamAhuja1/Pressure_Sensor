@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: depth-sensor-pkg
+Version: 1.0.0
+Summary: ROS2 package for MS5837 depth sensor serial communication
+Home-page: UNKNOWN
+Maintainer: Your Name
+Maintainer-email: your_email@example.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
